@@ -5,6 +5,8 @@ Superstore sales analysis and interactive dashboard using Microsoft Excel
 
 This Projetcs involves cleaning raw sales data, performing exploratory data analysis, calculating keys performance indicators(KPIs), and developing an interactive dashboard to generate actionable business insights.
 
+## 📊 Dashboard Preview
+
 ## 🎯 Project Workflow
 
 1. 🧹 Data Cleaning
